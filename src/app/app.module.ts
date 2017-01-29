@@ -20,5 +20,3 @@ import { TodoAppComponent } from './todo-app/todo-app.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
-
-
