@@ -1,3 +1,5 @@
+[![Webinar](./webinar.png)](http://eepurl.com/cBBpzv)
+
 # Todo App task
 
 *If you are using Sublime Text as IDE it is recommended to install TypeScript support plugin.*
